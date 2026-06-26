@@ -6,6 +6,7 @@ public class cliente {
     private String email;
     private String tipo;
 
+    
     public cliente(String nombre, String email, String tipo) {
         this.nombre = nombre;
         this.email = email;

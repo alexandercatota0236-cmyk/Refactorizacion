@@ -1,10 +1,7 @@
 
 package com.mycompany.refactorizacion;
 
-/**
- *
- * @author Andy Alexander
- */
+
 public class servicioEmail {
 
     public void enviarConfirmacion(cliente cliente,

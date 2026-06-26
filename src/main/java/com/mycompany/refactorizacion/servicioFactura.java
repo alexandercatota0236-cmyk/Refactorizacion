@@ -5,10 +5,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.List;
 
-/**
- *
- * @author Andy Alexander
- */
+
 public class servicioFactura {
 
     public void generarFactura(cliente cliente,
